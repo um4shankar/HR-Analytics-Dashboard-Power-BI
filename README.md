@@ -50,3 +50,4 @@ The dashboard enables HR teams to quickly identify patterns in employee turnover
 
 ## 📷 Dashboard Preview
 
+<img width="3058" height="1376" alt="Gemini_Generated_Image_yszyx2yszyx2yszy" src="https://github.com/user-attachments/assets/e33d453a-9665-4f43-8b1d-992b4d6eadf6" />
